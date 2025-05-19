@@ -1,54 +1,54 @@
 {
   "sources": [
     {
-      "name": "Enterprise News MENA",
+      "name": "Al Jazeera",
       "articles": [
         {
-          "headline": "Headline A",
-          "date": "2025-05-19",
+          "headline": "New Headline from Al Jazeera",
+          "date": "2025-05-18",
           "analyses": [
             {
               "title": "Article Summary",
-              "content": "Summary of article A..."
+              "content": "Summary..."
             },
             {
               "title": "Historical Background",
-              "content": "Historical background related to article A..."
+              "content": "Background..."
             },
             {
               "title": "Causal Analysis",
-              "content": "Causal analysis of the factors behind article A..."
+              "content": "Causal explanation..."
             },
             {
               "title": "Future Projections",
-              "content": "Future projections based on article A..."
+              "content": "Future prediction..."
             }
           ]
         }
       ]
     },
     {
-      "name": "The Peninsula Qatar",
+      "name": "Arab News",
       "articles": [
         {
-          "headline": "An Article: Is it Working? Yes! (Test #1)",
-          "date": "2025-05-17",
+          "headline": "Another Headline!",
+          "date": "2025-05-16",
           "analyses": [
             {
               "title": "Article Summary",
-              "content": "Summary of article C..."
+              "content": "Another summary..."
             },
             {
               "title": "Historical Background",
-              "content": "Historical background related to article C..."
+              "content": "More context..."
             },
             {
               "title": "Causal Analysis",
-              "content": "Causal analysis of the factors behind article C..."
+              "content": "Cause and effect..."
             },
             {
               "title": "Future Projections",
-              "content": "Future projections based on article C..."
+              "content": "Speculative future..."
             }
           ]
         }
