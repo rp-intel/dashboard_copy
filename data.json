@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "name": "Al Jazeera",
+      "name": "Arab News",
       "articles": [
         {
           "headline": "New Headline from Al Jazeera",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "name": "Arab News",
+      "name": "Al Jazeera",
       "articles": [
         {
           "headline": "Another Headline!",
