@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "name": "Enterprise News MENA",
+      "articles": [
+        {
+          "headline": "Headline A",
+          "date": "2025-05-19",
+          "analyses": [
+            {
+              "title": "Article Summary",
+              "content": "Summary of article A..."
+            },
+            {
+              "title": "Historical Background",
+              "content": "Historical background related to article A..."
+            },
+            {
+              "title": "Causal Analysis",
+              "content": "Causal analysis of the factors behind article A..."
+            },
+            {
+              "title": "Future Projections",
+              "content": "Future projections based on article A..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Peninsula Qatar",
+      "articles": [
+        {
+          "headline": "An Article: Is it Working? Yes! (Test #1)",
+          "date": "2025-05-17",
+          "analyses": [
+            {
+              "title": "Article Summary",
+              "content": "Summary of article C..."
+            },
+            {
+              "title": "Historical Background",
+              "content": "Historical background related to article C..."
+            },
+            {
+              "title": "Causal Analysis",
+              "content": "Causal analysis of the factors behind article C..."
+            },
+            {
+              "title": "Future Projections",
+              "content": "Future projections based on article C..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
