@@ -1,4 +1,9 @@
 {
-  "redcon_properties": ["Headline A", "An Article: Is it Working? Yes! (Test #1)"],
-  "tarek_el_gammal": ["An Article: Is it Working? Yes! (Test #1)"]
+  "1": [
+    "Uptown 6 October Partners with GSM to Launch High-End International School in West Cairo, Fostering Global Education Standards"
+  ],
+  "2": [
+    "Egyptian Government Sources Hint at Electricity Price Hike Delay Amid Declining Oil Prices, Stable Exchange Rate",
+    "Bank of Egypt Rate Cut Expected for Thursday Meeting, Experts Pencil in 100-200 bps Cut"
+  ]
 }
